@@ -606,20 +606,20 @@ nav .icon2{
         line-height: 1.6;
     }
     
-    /* Make tab links responsive */
+    /* font updated */
     .tab-links {
         margin-top: 7px;
-        margin-right: 20px; /* Adjust spacing for smaller screens */
-        font-size: 16px; /* Decrease font size for smaller screens */
+        margin-right: 20px; 
+        font-size: 16px; 
     }
     
-    /* Adjust tab content layout for smaller screens */
+   
     .tab-content ul li {
-        margin: 10px 0; /* Decrease margin for smaller screens */
+        margin: 10px 0; 
     }
     
     .tab-content ul li span {
-        font-size: 12px; /* Decrease font size for smaller screens */
+        font-size: 12px; 
     }
 }
 
