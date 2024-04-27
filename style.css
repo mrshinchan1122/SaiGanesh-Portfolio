@@ -599,7 +599,28 @@ nav .icon2{
     .copyright p {
         font-size: 10px !important;
     }
+    
 
+    #about-me {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    
+    /* Make tab links responsive */
+    .tab-links {
+        margin-top: 7px;
+        margin-right: 20px; /* Adjust spacing for smaller screens */
+        font-size: 16px; /* Decrease font size for smaller screens */
+    }
+    
+    /* Adjust tab content layout for smaller screens */
+    .tab-content ul li {
+        margin: 10px 0; /* Decrease margin for smaller screens */
+    }
+    
+    .tab-content ul li span {
+        font-size: 12px; /* Decrease font size for smaller screens */
+    }
 }
 
 #msg{
