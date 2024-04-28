@@ -621,11 +621,23 @@ nav .icon2{
     .tab-content ul li span {
         font-size: 12px; 
     }
+    #msg{
+        margin-left: -31px;
+    }
+
 }
 
-#msg{
+.contact-right {
+    position: relative; 
+}
+
+#msg {
     color: #61b752;
-    margin-top: -40px;
+    position: absolute; 
+    bottom: 0px; 
+    left: 50%;
+    transform: translateX(-50%); 
     display: block;
-    margin-left: 263px;
+    text-align: center;
+    width: 100%; 
 }
